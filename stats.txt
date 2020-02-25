@@ -1,0 +1,78 @@
+Jennifer Nguyen
+2320560
+
+Sum of length of DNA strings: 32
+Mean of length of DNA strings: 6.4
+Variance of length of DNA strings: 0.64
+Standard deviation of length of DNA strings: 0.8
+Probability of nucleotides
+    A: 0.25
+    C: 0.25
+    G: 0.25
+    T: 0.25
+Probability of bigrams
+    AA: 0.0625
+    AC: 0.0625
+    AG: 0.0625
+    AT: 0.0625
+    CA: 0.0625
+    CC: 0.0625
+    CG: 0.0625
+    CT: 0.0625
+    GA: 0.0625
+    GC: 0.0625
+    GG: 0.0625
+    GT: 0.0625
+    TA: 0.0625
+    TC: 0.0625
+    TG: 0.0625
+    TT: 0.0625
+
+TTTACTC
+GCGTTG
+GAAATAC
+TAGTGCGG
+CTGTCTCC
+ATGAAGT
+ACAATTTC
+TGGGAC
+GCGGCGA
+TCATCGTG
+
+Sum of length of DNA strings: 32
+Mean of length of DNA strings: 6.4
+Variance of length of DNA strings: 0.64
+Standard deviation of length of DNA strings: 0.8
+Probability of nucleotides
+    A: 0.25
+    C: 0.25
+    G: 0.25
+    T: 0.25
+Probability of bigrams
+    AA: 0.0625
+    AC: 0.0625
+    AG: 0.0625
+    AT: 0.0625
+    CA: 0.0625
+    CC: 0.0625
+    CG: 0.0625
+    CT: 0.0625
+    GA: 0.0625
+    GC: 0.0625
+    GG: 0.0625
+    GT: 0.0625
+    TA: 0.0625
+    TC: 0.0625
+    TG: 0.0625
+    TT: 0.0625
+
+CTCTGTC
+TATGCGCT
+AACGCA
+ACTTTGC
+CAGAAG
+AGATAGA
+GGTGTAA
+AACTGTAA
+TATATAA
+AACTTCG
