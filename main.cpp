@@ -115,6 +115,10 @@ int main(int argc, char** argv){
                         else if(bigram == "TT"){
                             ++countTT;
                         }
+                        else{
+                            //invalid bigram
+                            --countBigram;
+                        }
                     }
 
                     if(line[i] == 'A'){
